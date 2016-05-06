@@ -52,4 +52,4 @@ module.exports = function startup(options, imports, register) {
     return server;
 };
 
-module.exports.provide = ['socketserver'];
+module.exports.provides = ['socketserver'];
