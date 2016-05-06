@@ -1,0 +1,25 @@
+{
+  "name": "architect-socket-server",
+  "version": "1.0.0",
+  "description": "architect socket server plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bimedia-fr/architect-socket-server.git"
+  },
+  "keywords": [
+    "architect",
+    "socket-server"
+  ],
+  "author": "jerome creignou",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "listen-interface": "^1.0.1",
+    "nodeunit": "^0.9.1",
+    "unix-listen": "^0.1.1"
+  },
+  "devDependencies": {}
+}
