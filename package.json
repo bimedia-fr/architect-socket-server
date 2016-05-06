@@ -1,6 +1,6 @@
 {
   "name": "architect-socket-server",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "architect socket server plugin",
   "main": "index.js",
   "scripts": {
