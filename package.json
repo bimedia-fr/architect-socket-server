@@ -4,7 +4,7 @@
   "description": "architect socket server plugin",
   "main": "index.js",
   "scripts": {
-    "test": "nodeunit test/*-test.js"
+    "test": "mocha test/*-test.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,6 @@
     "unix-listen": "^0.1.1"
   },
   "devDependencies": {
-    "nodeunit": "^0.11.3"
+    "mocha": "^7.1.1"
   }
 }
